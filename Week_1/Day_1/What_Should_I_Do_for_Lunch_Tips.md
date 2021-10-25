@@ -1,0 +1,2 @@
+- [Week 1](https://github.com/Asmaa77ca/lighthouse-web-notes)
+  - [Day 1](https://github.com/Asmaa77ca/lighthouse-web-notes)
